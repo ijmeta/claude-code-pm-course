@@ -1,0 +1,30 @@
+# Environment variables (never commit API keys)
+.env
+.env.local
+.env.*.local
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# Generated outputs (student work, not source)
+outputs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+*.swp
+*.swo
+
+# Claude Code session state
+.claude/settings.local.json

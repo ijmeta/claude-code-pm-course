@@ -1,0 +1,8 @@
+step,users_entered,users_completed,completion_rate,median_time_to_complete
+Signup,12000,12000,1.0,0
+Email Verified,12000,10320,0.86,8
+Bank Connected,10320,3612,0.35,22
+First Transaction Categorized,3612,3141,0.87,3
+First Budget Created,3141,1696,0.54,31
+First Week Active,1696,1086,0.64,168
+First Month Retained,1086,717,0.66,720
