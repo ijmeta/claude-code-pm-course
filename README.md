@@ -23,7 +23,7 @@ You'll work inside a realistic fictional company called **FinTrack** (a personal
 
 Before starting, you'll need:
 
-1. **Claude Code** installed ([installation guide](https://ccforpms.com/getting-started/installation))
+1. **Claude Code** installed ([installation guide](https://docs.anthropic.com/en/docs/claude-code/getting-started))
 2. A **Claude.ai** account (Pro plan recommended)
 3. **Python 3.9+** (for Module 3 image generation)
 4. A **Google AI Studio** account with a Gemini API key (for Module 3)
@@ -224,6 +224,6 @@ You drive the pace. Claude is your guide.
 
 ## Need Help?
 
-- **Course website:** [ccforpms.com](https://ccforpms.com)
-- **Installation guide:** [ccforpms.com/getting-started/installation](https://ccforpms.com/getting-started/installation)
-- **Issues:** Open a GitHub issue on this repo
+- **Installation guide:** [Claude Code Getting Started](https://docs.anthropic.com/en/docs/claude-code/getting-started)
+- **Issues:** [Open a GitHub issue](https://github.com/ijmeta/claude-code-pm-course/issues)
+- **Discussions:** [GitHub Discussions](https://github.com/ijmeta/claude-code-pm-course/discussions)

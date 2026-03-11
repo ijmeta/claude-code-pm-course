@@ -199,13 +199,13 @@ USER: [Response]
 
 ## Quick Plugs
 
-**To catch future modules:** Subscribe to the Claude Code for PMs newsletter at ccforpms.com. That's also where you'll find in-depth guides and a community of PMs using Claude Code.
+**To catch future modules:** Star the GitHub repo so you get notified when new modules drop. You'll also find discussions, issues, and community Q&A there: https://github.com/ijmeta/claude-code-pm-course
 
-STOP: Want me to open that site so you can subscribe?
+STOP: Want me to open the repo for you?
 
 USER: Yes / No
 
-ACTION: If yes, open https://ccforpms.com in browser
+ACTION: If yes, open https://github.com/ijmeta/claude-code-pm-course in browser
 
 This course was created by Joni [Joni's Last Name]. If you have feedback, questions, or just want to say hi, she's always happy to hear from you: [X]([Joni's Handle on X]) / [LinkedIn]([Joni's LinkedIn])
 

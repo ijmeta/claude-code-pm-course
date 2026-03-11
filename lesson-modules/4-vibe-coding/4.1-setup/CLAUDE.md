@@ -107,13 +107,13 @@ USER: Yes
 
 This course was created by Joni [Joni's Last Name] ([X]([Joni's Handle on X]) / [LinkedIn]([Joni's LinkedIn])) - if you have thoughts or feedback on the course, she's always happy to hear from users!
 
-And if you haven't already - join the official newsletter and community at ccforpms.com. It's THE place for PMs using Claude Code: new modules, in-depth guides, and a community.
+And if you have feedback, questions, or want to follow along as new modules are added - star the repo and join the conversation at https://github.com/ijmeta/claude-code-pm-course
 
-STOP: Want me to open that site for you to subscribe?
+STOP: Want me to open the repo for you?
 
 USER: Replies
 
-ACTION: If user says yes, open https://ccforpms.com in browser
+ACTION: If user says yes, open https://github.com/ijmeta/claude-code-pm-course in browser
 
 ---
 
